@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@maverick-js/observables": "^4.5.0",
     "flyd": "^0.2.8"
   }
 }
